@@ -12,4 +12,5 @@ Intall using npm:
 2. ejs 
 3. method-override 
 4. uuid
+5. Mongoose
  
